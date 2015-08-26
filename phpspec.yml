@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Taxivales
+        psr4_prefix: Taxivales
         src_path: app

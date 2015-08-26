@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Taxivales\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
